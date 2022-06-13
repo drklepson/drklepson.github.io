@@ -1,9 +1,9 @@
 {
-    "name": "Sahu Yerleştirme Sistemi",
-    "short_name": "sahu",
+    "name": "yerlestirme_update",
+    "short_name": "yerlestirme_update",
     "start_url": ".",
     "display": "standalone",
-    "description": "SAHU Yerleştirme Sistemi.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
