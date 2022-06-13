@@ -71743,7 +71743,7 @@ s=t.w
 l=$.D.F$.z.h(0,l).L(s).f.a.a<600?112:150
 r=$.cc().xr
 r=$.D.F$.z.h(0,r).L(s).f.a.a<600?A.S(a).RG.x:A.S(a).RG.r
-r=A.cg("T\xfcrkiyenin ilk ve tek Sahu Tercih Platformu V5",m,m,m,r==null?m:r.aO(A.S(a).ay.c),m,m)
+r=A.cg("T\xfcrkiyenin ilk ve tek Sahu Tercih Platformu V6",m,m,m,r==null?m:r.aO(A.S(a).ay.c),m,m)
 q=$.cc().xr
 q=$.D.F$.z.h(0,q).L(s).f.a.a<600?72:112
 p=a.L(s).f
