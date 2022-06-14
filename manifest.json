@@ -1,9 +1,9 @@
 {
-    "name": "yerlestirme_update",
-    "short_name": "yerlestirme_update",
+    "name": "SAHU Yerleştirme",
+    "short_name": "sahu_yerlestirme",
     "start_url": ".",
     "display": "standalone",
-    "description": "A new Flutter project.",
+    "description": "Sözleşmeli Aile Hekimliği Uzmanlığı Tercih Simülasyonu.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
