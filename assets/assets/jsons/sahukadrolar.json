@@ -1,862 +1,852 @@
 [
   {
-    "Sıra No": 1,
-    "İl": "ADANA",
-    "Eğitim Kurumu": "Çukurova Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "ADANA/OSMANİYE"
-  },
-  {
-    "Sıra No": 2,
-    "İl": "ADANA",
-    "Eğitim Kurumu": "Adana Şehir Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 10,
-    "Başvurabilenler": "ADANA/OSMANİYE"
-  },
-  {
-    "Sıra No": 3,
-    "İl": "ADIYAMAN",
-    "Eğitim Kurumu": "Adıyaman Üniversitesi Eğitim ve Araştırma Hastanesi",
-    "Tür": "AFİLİYE",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 4,
-    "Başvurabilenler": "ADIYAMAN"
-  },
-  {
-    "Sıra No": 4,
-    "İl": "AFYONKARAHİSAR",
-    "Eğitim Kurumu": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 7,
-    "Başvurabilenler": "AFYONKARAHİSAR"
-  },
-  {
-    "Sıra No": 5,
-    "İl": "ANKARA",
-    "Eğitim Kurumu": "Ankara Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "ANKARA/KIRIKKALE/ÇANKIRI/KIRŞEHİR"
-  },
-  {
-    "Sıra No": 6,
-    "İl": "ANKARA",
-    "Eğitim Kurumu": "Başkent Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 4,
-    "Başvurabilenler": "ANKARA/KIRIKKALE/ÇANKIRI/KIRŞEHİR"
-  },
-  {
-    "Sıra No": 7,
-    "İl": "ANKARA",
-    "Eğitim Kurumu": "SBÜ Gülhane Eğitim ve Araştırma Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 4,
-    "Başvurabilenler": "ANKARA/KIRIKKALE/ÇANKIRI/KIRŞEHİR"
-  },
-  {
-    "Sıra No": 8,
-    "İl": "ANKARA",
-    "Eğitim Kurumu": "SBÜ Ankara Eğitim ve Araştırma Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 6,
-    "Başvurabilenler": "ANKARA/KIRIKKALE/ÇANKIRI/KIRŞEHİR"
-  },
-  {
-    "Sıra No": 9,
-    "İl": "ANKARA",
-    "Eğitim Kurumu": "SBÜ Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 7,
-    "Başvurabilenler": "ANKARA/KIRIKKALE/ÇANKIRI/KIRŞEHİR"
-  },
-  {
-    "Sıra No": 10,
-    "İl": "ANKARA",
-    "Eğitim Kurumu": "SBÜ Keçiören Eğitim ve Araştırma Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "ANKARA/KIRIKKALE/ÇANKIRI/KIRŞEHİR"
-  },
-  {
-    "Sıra No": 11,
-    "İl": "ANKARA",
-    "Eğitim Kurumu": "Hacettepe Üniversitesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 4,
-    "Başvurabilenler": "ANKARA/KIRIKKALE/ÇANKIRI/KIRŞEHİR"
-  },
-  {
-    "Sıra No": 12,
-    "İl": "ANKARA",
-    "Eğitim Kurumu": "Ankara Şehir Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 17,
-    "Başvurabilenler": "ANKARA/KIRIKKALE/ÇANKIRI/KIRŞEHİR"
-  },
-  {
-    "Sıra No": 13,
-    "İl": "ANKARA",
-    "Eğitim Kurumu": "Ankara Yıldırım Beyazıt Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 7,
-    "Başvurabilenler": "ANKARA/KIRIKKALE/ÇANKIRI/KIRŞEHİR"
-  },
-  {
-    "Sıra No": 14,
-    "İl": "ANTALYA",
-    "Eğitim Kurumu": "Akdeniz Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "ANTALYA"
-  },
-  {
-    "Sıra No": 15,
-    "İl": "ANTALYA",
-    "Eğitim Kurumu": "SBÜ Antalya Eğitim ve Araştırma Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 7,
-    "Başvurabilenler": "ANTALYA"
-  },
-  {
-    "Sıra No": 16,
-    "İl": "AYDIN",
-    "Eğitim Kurumu": "Adnan Menderes Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "AYDIN"
-  },
-  {
-    "Sıra No": 17,
-    "İl": "BOLU",
-    "Eğitim Kurumu": "Bolu Abant İzzet Baysal Üniversitesi İzzet Baysal Eğitim ve Araştırma Hastanesi",
-    "Tür": "AFİLİYE",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "BOLU"
-  },
-  {
-    "Sıra No": 18,
-    "İl": "BURSA",
-    "Eğitim Kurumu": "Uludağ Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 7,
-    "Başvurabilenler": "BURSA/BALIKESİR"
-  },
-  {
-    "Sıra No": 19,
-    "İl": "BURSA",
-    "Eğitim Kurumu": "SBÜ Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 14,
-    "Başvurabilenler": "BURSA/BALIKESİR"
-  },
-  {
-    "Sıra No": 20,
-    "İl": "ÇANAKKALE",
-    "Eğitim Kurumu": "Çanakkale Onsekiz Mart Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "ÇANAKKALE"
-  },
-  {
-    "Sıra No": 21,
-    "İl": "ÇORUM",
-    "Eğitim Kurumu": "Hitit Üniversitesi Tıp Erol Olçok Eğitim ve Araştırma Hastanesi",
-    "Tür": "AFİLİYE",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "ÇORUM/YOZGAT"
-  },
-  {
-    "Sıra No": 22,
-    "İl": "DENİZLİ",
-    "Eğitim Kurumu": "Pamukkale Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 6,
-    "Başvurabilenler": "DENİZLİ"
-  },
-  {
-    "Sıra No": 23,
-    "İl": "DİYARBAKIR",
-    "Eğitim Kurumu": "Dicle Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 15,
-    "Başvurabilenler": "DİYARBAKIR/BATMAN/MARDİN/MUŞ/SİİRT/ŞIRNAK"
-  },
-  {
-    "Sıra No": 24,
-    "İl": "DÜZCE",
-    "Eğitim Kurumu": "Düzce Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "DÜZCE"
-  },
-  {
-    "Sıra No": 25,
-    "İl": "EDİRNE",
-    "Eğitim Kurumu": "Trakya Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 4,
-    "Başvurabilenler": "EDİRNE/KIRKLARELİ"
-  },
-  {
-    "Sıra No": 26,
-    "İl": "ELAZIĞ",
-    "Eğitim Kurumu": "Fırat Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "ELAZIĞ/BİNGÖL/TUNCELİ"
-  },
-  {
-    "Sıra No": 27,
-    "İl": "ERZİNCAN",
-    "Eğitim Kurumu": "Erzincan Binali Yıldırım Üniversitesi Mengücek Gazi Eğitim ve Araştırma Hastanesi",
-    "Tür": "AFİLİYE",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 3,
-    "Başvurabilenler": "ERZİNCAN"
-  },
-  {
-    "Sıra No": 28,
-    "İl": "ERZURUM",
-    "Eğitim Kurumu": "Atatürk Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 7,
-    "Başvurabilenler": "ERZURUM/AĞRI/BAYBURT"
-  },
-  {
-    "Sıra No": 29,
-    "İl": "ESKİŞEHİR",
-    "Eğitim Kurumu": "Eskişehir Osmangazi Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 7,
-    "Başvurabilenler": "ESKİŞEHİR/BİLECİK"
-  },
-  {
-    "Sıra No": 30,
-    "İl": "GAZİANTEP",
-    "Eğitim Kurumu": "Gaziantep Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 10,
-    "Başvurabilenler": "GAZİANTEP/KİLİS"
-  },
-  {
-    "Sıra No": 31,
-    "İl": "GİRESUN",
-    "Eğitim Kurumu": "Giresun Üniversitesi Prof. Dr. A. İlhan Özdemir Eğitim ve Araştırma Hastanesi",
-    "Tür": "AFİLİYE",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 3,
-    "Başvurabilenler": "GİRESUN"
-  },
-  {
-    "Sıra No": 32,
-    "İl": "HATAY",
-    "Eğitim Kurumu": "Mustafa Kemal Üniversitesi Tayfur Ata Sökmen Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 6,
-    "Başvurabilenler": "HATAY"
-  },
-  {
-    "Sıra No": 33,
-    "İl": "ISPARTA",
-    "Eğitim Kurumu": "Süleyman Demirel Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "ISPARTA/BURDUR"
-  },
-  {
-    "Sıra No": 34,
-    "İl": "İSTANBUL",
-    "Eğitim Kurumu": "Bezmiâlem Vakıf Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 2,
-    "Başvurabilenler": "İSTANBUL"
-  },
-  {
-    "Sıra No": 35,
-    "İl": "İSTANBUL",
-    "Eğitim Kurumu": "İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 1,
-    "Başvurabilenler": "İSTANBUL"
-  },
-  {
-    "Sıra No": 36,
-    "İl": "İSTANBUL",
-    "Eğitim Kurumu": "İstanbul Üniversitesi İstanbul Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 2,
-    "Başvurabilenler": "İSTANBUL"
-  },
-  {
-    "Sıra No": 37,
-    "İl": "İSTANBUL",
-    "Eğitim Kurumu": "Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi",
-    "Tür": "AFİLİYE",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 7,
-    "Başvurabilenler": "İSTANBUL"
-  },
-  {
-    "Sıra No": 38,
-    "İl": "İSTANBUL",
-    "Eğitim Kurumu": "SBÜ Bağcılar Eğitim ve Araştırma Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 7,
-    "Başvurabilenler": "İSTANBUL"
-  },
-  {
-    "Sıra No": 39,
-    "İl": "İSTANBUL",
-    "Eğitim Kurumu": "SBÜ Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 7,
-    "Başvurabilenler": "İSTANBUL"
-  },
-  {
-    "Sıra No": 40,
-    "İl": "İSTANBUL",
-    "Eğitim Kurumu": "SBÜ Dr. Lütfi Kırdar Kartal Eğitim ve Araştırma Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 8,
-    "Başvurabilenler": "İSTANBUL"
-  },
-  {
-    "Sıra No": 41,
-    "İl": "İSTANBUL",
-    "Eğitim Kurumu": "SBÜ Fatih Sultan Mehmet Eğitim ve Araştırma Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "İSTANBUL"
-  },
-  {
-    "Sıra No": 42,
-    "İl": "İSTANBUL",
-    "Eğitim Kurumu": "SBÜ Gaziosmanpaşa Taksim Eğitim ve Araştırma Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "İSTANBUL"
-  },
-  {
-    "Sıra No": 43,
-    "İl": "İSTANBUL",
-    "Eğitim Kurumu": "SBÜ Haseki Eğitim ve Araştırma Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 6,
-    "Başvurabilenler": "İSTANBUL"
-  },
-  {
-    "Sıra No": 44,
-    "İl": "İSTANBUL",
-    "Eğitim Kurumu": "SBÜ Haydarpaşa Numune Eğitim ve Araştırma Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 8,
-    "Başvurabilenler": "İSTANBUL"
-  },
-  {
-    "Sıra No": 45,
-    "İl": "İSTANBUL",
-    "Eğitim Kurumu": "İstanbul Medeniyet Üniversitesi Göztepe Eğitim ve Araştırma Hastanesi",
-    "Tür": "AFİLİYE",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "İSTANBUL"
-  },
-  {
-    "Sıra No": 46,
-    "İl": "İSTANBUL",
-    "Eğitim Kurumu": "SBÜ Prof. Dr. Cemil Taşçıoğlu Şehir Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 7,
-    "Başvurabilenler": "İSTANBUL"
-  },
-  {
-    "Sıra No": 47,
-    "İl": "İSTANBUL",
-    "Eğitim Kurumu": "SBÜ Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "İSTANBUL"
-  },
-  {
-    "Sıra No": 48,
-    "İl": "İSTANBUL",
-    "Eğitim Kurumu": "SBÜ Ümraniye Eğitim ve Araştırma Hastanesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 6,
-    "Başvurabilenler": "İSTANBUL"
-  },
-  {
-    "Sıra No": 49,
-    "İl": "İSTANBUL",
-    "Eğitim Kurumu": "Acıbadem Mehmet Ali Aydınlar Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 2,
-    "Başvurabilenler": "İSTANBUL"
-  },
-  {
-    "Sıra No": 50,
-    "İl": "İSTANBUL",
-    "Eğitim Kurumu": "İstanbul Okan Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 2,
-    "Başvurabilenler": "İSTANBUL"
-  },
-  {
-    "Sıra No": 51,
-    "İl": "İSTANBUL",
-    "Eğitim Kurumu": "Maltepe Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 2,
-    "Başvurabilenler": "İSTANBUL"
-  },
-  {
-    "Sıra No": 52,
-    "İl": "İSTANBUL",
-    "Eğitim Kurumu": "SBÜ Başakşehir Çam ve Sakura Şehir Hastanesi",
-    "Tür": "ŞH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 4,
-    "Başvurabilenler": "İSTANBUL"
-  },
-  {
-    "Sıra No": 53,
-    "İl": "İSTANBUL",
-    "Eğitim Kurumu": "SBÜ İstanbul Eğitim ve Araştırma Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 2,
-    "Başvurabilenler": "İSTANBUL"
-  },
-  {
-    "Sıra No": 54,
-    "İl": "İZMİR",
-    "Eğitim Kurumu": "Dokuz Eylül Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "İZMİR"
-  },
-  {
-    "Sıra No": 55,
-    "İl": "İZMİR",
-    "Eğitim Kurumu": "SBÜ Bozyaka Eğitim ve Araştırma Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 7,
-    "Başvurabilenler": "İZMİR"
-  },
-  {
-    "Sıra No": 56,
-    "İl": "İZMİR",
-    "Eğitim Kurumu": "İzmir Kâtip Çelebi Üniversitesi Atatürk Eğitim ve Araştırma Hastanesi",
-    "Tür": "AFİLİYE",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 6,
-    "Başvurabilenler": "İZMİR"
-  },
-  {
-    "Sıra No": 57,
-    "İl": "İZMİR",
-    "Eğitim Kurumu": "SBÜ Tepecik Eğitim ve Araştırma Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 7,
-    "Başvurabilenler": "İZMİR"
-  },
-  {
-    "Sıra No": 58,
-    "İl": "İZMİR",
-    "Eğitim Kurumu": "İzmir Demokrasi Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 2,
-    "Başvurabilenler": "İZMİR"
-  },
-  {
-    "Sıra No": 59,
-    "İl": "KAHRAMANMARAŞ",
-    "Eğitim Kurumu": "Kahramanmaraş Sütçü İmam Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "KAHRAMANMARAŞ"
-  },
-  {
-    "Sıra No": 60,
-    "İl": "KARABÜK",
-    "Eğitim Kurumu": "Karabük Üniversitesi Eğitim ve Araştırma Hastanesi",
-    "Tür": "AFİLİYE",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "KARABÜK/KASTAMONU"
-  },
-  {
-    "Sıra No": 61,
-    "İl": "KARS",
-    "Eğitim Kurumu": "Kafkas Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "KARS/ARDAHAN/IĞDIR"
-  },
-  {
-    "Sıra No": 62,
-    "İl": "KAYSERİ",
-    "Eğitim Kurumu": "Erciyes Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 10,
-    "Başvurabilenler": "KAYSERİ/NEVŞEHİR/NİĞDE"
-  },
-  {
-    "Sıra No": 63,
-    "İl": "KOCAELİ",
-    "Eğitim Kurumu": "Kocaeli Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 7,
-    "Başvurabilenler": "KOCAELİ/YALOVA"
-  },
-  {
-    "Sıra No": 64,
-    "İl": "KONYA",
-    "Eğitim Kurumu": "Necmettin Erbakan Üniversitesi Meram Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "KONYA/AKSARAY/KARAMAN"
-  },
-  {
-    "Sıra No": 65,
-    "İl": "KONYA",
-    "Eğitim Kurumu": "Selçuk Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 4,
-    "Başvurabilenler": "KONYA/AKSARAY/KARAMAN"
-  },
-  {
-    "Sıra No": 66,
-    "İl": "KONYA",
-    "Eğitim Kurumu": "SBÜ Konya Şehir Hastanesi",
-    "Tür": "ŞH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 7,
-    "Başvurabilenler": "KONYA/AKSARAY/KARAMAN"
-  },
-  {
-    "Sıra No": 67,
-    "İl": "KONYA",
-    "Eğitim Kurumu": "SBÜ Konya Beyhekim EAH",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 4,
-    "Başvurabilenler": "KONYA/AKSARAY/KARAMAN"
-  },
-  {
-    "Sıra No": 68,
-    "İl": "KÜTAHYA",
-    "Eğitim Kurumu": "Kütahya Sağlık Bilimleri Üniversitesi Evliya Çelebi Eğitim ve Araştırma Hastanesi",
-    "Tür": "AFİLİYE",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 6,
-    "Başvurabilenler": "KÜTAHYA"
-  },
-  {
-    "Sıra No": 69,
-    "İl": "MALATYA",
-    "Eğitim Kurumu": "İnönü Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 8,
-    "Başvurabilenler": "MALATYA"
-  },
-  {
-    "Sıra No": 70,
-    "İl": "MANİSA",
-    "Eğitim Kurumu": "Celal Bayar Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "MANİSA"
-  },
-  {
-    "Sıra No": 71,
-    "İl": "MERSİN",
-    "Eğitim Kurumu": "Mersin Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 7,
-    "Başvurabilenler": "MERSİN"
-  },
-  {
-    "Sıra No": 72,
-    "İl": "MUĞLA",
-    "Eğitim Kurumu": "Muğla Sıtkı Koçman Üniversitesi Eğitim ve Araştırma Hastanesi",
-    "Tür": "AFİLİYE",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 6,
-    "Başvurabilenler": "MUĞLA"
-  },
-  {
-    "Sıra No": 73,
-    "İl": "ORDU",
-    "Eğitim Kurumu": "Ordu Üniversitesi Eğitim ve Araştırma Hastanesi",
-    "Tür": "AFİLİYE",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 6,
-    "Başvurabilenler": "ORDU"
-  },
-  {
-    "Sıra No": 74,
-    "İl": "RİZE",
-    "Eğitim Kurumu": "Recep Tayyip Erdoğan Üniversitesi Eğitim ve Araştırma Hastanesi",
-    "Tür": "AFİLİYE",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 4,
-    "Başvurabilenler": "RİZE/ARTVİN"
-  },
-  {
-    "Sıra No": 75,
-    "İl": "SAKARYA",
-    "Eğitim Kurumu": "Sakarya Üniversitesi Eğitim ve Araştırma Hastanesi",
-    "Tür": "AFİLİYE",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 8,
-    "Başvurabilenler": "SAKARYA"
-  },
-  {
-    "Sıra No": 76,
-    "İl": "SAMSUN",
-    "Eğitim Kurumu": "Ondokuz Mayıs Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 6,
-    "Başvurabilenler": "SAMSUN/AMASYA/SİNOP"
-  },
-  {
-    "Sıra No": 77,
-    "İl": "SAMSUN",
-    "Eğitim Kurumu": "SBÜ Samsun Eğitim ve Araştırma Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 9,
-    "Başvurabilenler": "SAMSUN/AMASYA/SİNOP"
-  },
-  {
-    "Sıra No": 78,
-    "İl": "SİVAS",
-    "Eğitim Kurumu": "Cumhuriyet Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 7,
-    "Başvurabilenler": "SİVAS"
-  },
-  {
-    "Sıra No": 79,
-    "İl": "ŞANLIURFA",
-    "Eğitim Kurumu": "Harran Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 8,
-    "Başvurabilenler": "ŞANLIURFA"
-  },
-  {
-    "Sıra No": 80,
-    "İl": "TEKİRDAĞ",
-    "Eğitim Kurumu": "Namık Kemal Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "TEKİRDAĞ"
-  },
-  {
-    "Sıra No": 81,
-    "İl": "TOKAT",
-    "Eğitim Kurumu": "Gaziosmanpaşa Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 5,
-    "Başvurabilenler": "TOKAT"
-  },
-  {
-    "Sıra No": 82,
-    "İl": "TRABZON",
-    "Eğitim Kurumu": "Karadeniz Teknik Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 4,
-    "Başvurabilenler": "TRABZON/GÜMÜŞHANE"
-  },
-  {
-    "Sıra No": 83,
-    "İl": "TRABZON",
-    "Eğitim Kurumu": "SBÜ Trabzon Kanuni Eğitim ve Araştırma Hastanesi",
-    "Tür": "EAH.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 2,
-    "Başvurabilenler": "TRABZON/GÜMÜŞHANE"
-  },
-  {
-    "Sıra No": 84,
-    "İl": "UŞAK",
-    "Eğitim Kurumu": "Uşak Üniversitesi Uşak EAH",
-    "Tür": "AFİLİYE",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 4,
-    "Başvurabilenler": "UŞAK"
-  },
-  {
-    "Sıra No": 85,
-    "İl": "VAN",
-    "Eğitim Kurumu": "Yüzüncü Yıl Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 7,
-    "Başvurabilenler": "VAN/BİTLİS/HAKKARİ"
-  },
-  {
-    "Sıra No": 86,
-    "İl": "ZONGULDAK",
-    "Eğitim Kurumu": "Bülent Ecevit Üniversitesi Tıp Fakültesi",
-    "Tür": "ÜNV.",
-    "Dal": "Aile Hekimliği",
-    "Süre": "6 Yıl",
-    "Kontenjan": 7,
-    "Başvurabilenler": "ZONGULDAK/BARTIN"
+   "Sıra No": 1,
+   "İl": "ADANA",
+   "Kurum": "Çukurova Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 8,
+   "Başvurabilenler":  ["ADANA", " OSMANİYE"]
+  },
+  {
+   "Sıra No": 2,
+   "İl": "ADANA",
+   "Kurum": "SBÜ Adana Şehir Hastanesi",
+   "Tür": "ŞH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 12,
+   "Başvurabilenler":  ["ADANA", " OSMANİYE"]
+  },
+  {
+   "Sıra No": 3,
+   "İl": "AFYONKARAHİSAR",
+   "Kurum": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 8,
+   "Başvurabilenler":  ["AFYONKARAHİSAR"]
+  },
+  {
+   "Sıra No": 4,
+   "İl": "ANKARA",
+   "Kurum": "Ankara Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 7,
+   "Başvurabilenler":  ["ANKARA", " KIRIKKALE", " ÇANKIRI", " KIRŞEHİR"]
+  },
+  {
+   "Sıra No": 5,
+   "İl": "ANKARA",
+   "Kurum": "Başkent Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 5,
+   "Başvurabilenler":  ["ANKARA", " KIRIKKALE", " ÇANKIRI", " KIRŞEHİR"]
+  },
+  {
+   "Sıra No": 6,
+   "İl": "ANKARA",
+   "Kurum": "SBÜ Gülhane Eğitim ve Araştırma Hastanesi",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 5,
+   "Başvurabilenler":  ["ANKARA", " KIRIKKALE", " ÇANKIRI", " KIRŞEHİR"]
+  },
+  {
+   "Sıra No": 7,
+   "İl": "ANKARA",
+   "Kurum": "SBÜ Ankara Eğitim ve Araştırma Hastanesi",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 9,
+   "Başvurabilenler":  ["ANKARA", " KIRIKKALE", " ÇANKIRI", " KIRŞEHİR"]
+  },
+  {
+   "Sıra No": 8,
+   "İl": "ANKARA",
+   "Kurum": "SBÜ Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 9,
+   "Başvurabilenler":  ["ANKARA", " KIRIKKALE", " ÇANKIRI", " KIRŞEHİR"]
+  },
+  {
+   "Sıra No": 9,
+   "İl": "ANKARA",
+   "Kurum": "SBÜ Ankara Atatürk Sanatoryum Eğitim ve Araştırma Hastanesi",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 5,
+   "Başvurabilenler":  ["ANKARA", " KIRIKKALE", " ÇANKIRI", " KIRŞEHİR"]
+  },
+  {
+   "Sıra No": 10,
+   "İl": "ANKARA",
+   "Kurum": "Hacettepe Üniversitesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 5,
+   "Başvurabilenler":  ["ANKARA", " KIRIKKALE", " ÇANKIRI", " KIRŞEHİR"]
+  },
+  {
+   "Sıra No": 11,
+   "İl": "ANKARA",
+   "Kurum": "SBÜ Ankara Şehir Hastanesi",
+   "Tür": "ŞH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 22,
+   "Başvurabilenler":  ["ANKARA", " KIRIKKALE", " ÇANKIRI", " KIRŞEHİR"]
+  },
+  {
+   "Sıra No": 12,
+   "İl": "ANKARA",
+   "Kurum": "Ankara Yıldırım Beyazıt Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 20,
+   "Başvurabilenler":  ["ANKARA", " KIRIKKALE", " ÇANKIRI", " KIRŞEHİR"]
+  },
+  {
+   "Sıra No": 13,
+   "İl": "ANTALYA",
+   "Kurum": "Akdeniz Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 7,
+   "Başvurabilenler":  ["ANTALYA"]
+  },
+  {
+   "Sıra No": 14,
+   "İl": "ANTALYA",
+   "Kurum": "SBÜ Antalya Eğitim ve Araştırma Hastanesi",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 8,
+   "Başvurabilenler":  ["ANTALYA"]
+  },
+  {
+   "Sıra No": 15,
+   "İl": "AYDIN",
+   "Kurum": "Adnan Menderes Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 8,
+   "Başvurabilenler":  ["AYDIN"]
+  },
+  {
+   "Sıra No": 16,
+   "İl": "BOLU",
+   "Kurum": "Bolu Abant İzzet Baysal Üniversitesi İzzet Baysal Eğitim ve Araştırma Hastanesi",
+   "Tür": "AFİlİYE",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 8,
+   "Başvurabilenler":  ["BOLU"]
+  },
+  {
+   "Sıra No": 17,
+   "İl": "BURSA",
+   "Kurum": "Uludağ Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 10,
+   "Başvurabilenler":  ["BURSA", " BALIKESİR"]
+  },
+  {
+   "Sıra No": 18,
+   "İl": "BURSA",
+   "Kurum": "SBÜ Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 20,
+   "Başvurabilenler":  ["BURSA", " BALIKESİR"]
+  },
+  {
+   "Sıra No": 19,
+   "İl": "ÇANAKKALE",
+   "Kurum": "Çanakkale Onsekiz Mart Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 7,
+   "Başvurabilenler":  ["ÇANAKKALE"]
+  },
+  {
+   "Sıra No": 20,
+   "İl": "ÇORUM",
+   "Kurum": "Hitit Üniversitesi Tıp Erol Olçok Eğitim ve Araştırma Hastanesi",
+   "Tür": "AFİlİYE",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 12,
+   "Başvurabilenler":  ["ÇORUM", " YOZGAT"]
+  },
+  {
+   "Sıra No": 21,
+   "İl": "DENİZLİ",
+   "Kurum": "Pamukkale Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 8,
+   "Başvurabilenler":  ["DENİZLİ"]
+  },
+  {
+   "Sıra No": 22,
+   "İl": "DİYARBAKIR",
+   "Kurum": "Dicle Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 20,
+   "Başvurabilenler":  ["DİYARBAKIR", " BATMAN", " MARDİN", " MUŞ", "  SİİRT", " ŞIRNAK"]
+  },
+  {
+   "Sıra No": 23,
+   "İl": "DÜZCE",
+   "Kurum": "Düzce Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 8,
+   "Başvurabilenler":  ["DÜZCE"]
+  },
+  {
+   "Sıra No": 24,
+   "İl": "EDİRNE",
+   "Kurum": "Trakya Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 6,
+   "Başvurabilenler":  ["EDİRNE", " KIRKLARELİ"]
+  },
+  {
+   "Sıra No": 25,
+   "İl": "ELAZIĞ",
+   "Kurum": "Fırat Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 10,
+   "Başvurabilenler":  ["ELAZIĞ", " BİNGÖL", " TUNCELİ"]
+  },
+  {
+   "Sıra No": 26,
+   "İl": "ERZURUM",
+   "Kurum": "Atatürk Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 18,
+   "Başvurabilenler":  ["ERZURUM", " AĞRI", " BAYBURT", " ERZİNCAN"]
+  },
+  {
+   "Sıra No": 27,
+   "İl": "ESKİŞEHİR",
+   "Kurum": "Eskişehir Osmangazi Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 12,
+   "Başvurabilenler":  ["ESKİŞEHİR", " BİlECİK"]
+  },
+  {
+   "Sıra No": 28,
+   "İl": "GAZİANTEP",
+   "Kurum": "Gaziantep Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 15,
+   "Başvurabilenler":  ["GAZİANTEP", " KİlİS"]
+  },
+  {
+   "Sıra No": 29,
+   "İl": "GİRESUN",
+   "Kurum": "Giresun Üniversitesi Prof. Dr. A. İlhan Özdemir Eğitim ve Araştırma Hastanesi",
+   "Tür": "AFİlİYE",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 5,
+   "Başvurabilenler":  ["GİRESUN"]
+  },
+  {
+   "Sıra No": 30,
+   "İl": "HATAY",
+   "Kurum": "Mustafa Kemal Üniversitesi Tayfur Ata Sökmen Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 10,
+   "Başvurabilenler":  ["HATAY"]
+  },
+  {
+   "Sıra No": 31,
+   "İl": "ISPARTA",
+   "Kurum": "Süleyman Demirel Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 10,
+   "Başvurabilenler":  ["ISPARTA", " BURDUR"]
+  },
+  {
+   "Sıra No": 32,
+   "İl": "İSTANBUL",
+   "Kurum": "Bezmiâlem Vakıf Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 5,
+   "Başvurabilenler":  ["İSTANBUL"]
+  },
+  {
+   "Sıra No": 33,
+   "İl": "İSTANBUL",
+   "Kurum": "İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 2,
+   "Başvurabilenler":  ["İSTANBUL"]
+  },
+  {
+   "Sıra No": 34,
+   "İl": "İSTANBUL",
+   "Kurum": "İstanbul Üniversitesi İstanbul Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 3,
+   "Başvurabilenler":  ["İSTANBUL"]
+  },
+  {
+   "Sıra No": 35,
+   "İl": "İSTANBUL",
+   "Kurum": "Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi",
+   "Tür": "AFİlİYE",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 10,
+   "Başvurabilenler":  ["İSTANBUL"]
+  },
+  {
+   "Sıra No": 36,
+   "İl": "İSTANBUL",
+   "Kurum": "SBÜ Bağcılar Eğitim ve Araştırma Hastanesi",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 8,
+   "Başvurabilenler":  ["İSTANBUL"]
+  },
+  {
+   "Sıra No": 37,
+   "İl": "İSTANBUL",
+   "Kurum": "SBÜ Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 8,
+   "Başvurabilenler":  ["İSTANBUL"]
+  },
+  {
+   "Sıra No": 38,
+   "İl": "İSTANBUL",
+   "Kurum": "SBÜ Dr. Lütfi Kırdar Kartal Eğitim ve Araştırma Hastanesi",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 12,
+   "Başvurabilenler":  ["İSTANBUL"]
+  },
+  {
+   "Sıra No": 39,
+   "İl": "İSTANBUL",
+   "Kurum": "SBÜ Fatih Sultan Mehmet Eğitim ve Araştırma Hastanesi",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 7,
+   "Başvurabilenler":  ["İSTANBUL"]
+  },
+  {
+   "Sıra No": 40,
+   "İl": "İSTANBUL",
+   "Kurum": "SBÜ Gaziosmanpaşa Taksim Eğitim ve Araştırma Hastanesi",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 8,
+   "Başvurabilenler":  ["İSTANBUL"]
+  },
+  {
+   "Sıra No": 41,
+   "İl": "İSTANBUL",
+   "Kurum": "SBÜ Haseki Eğitim ve Araştırma Hastanesi",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 8,
+   "Başvurabilenler":  ["İSTANBUL"]
+  },
+  {
+   "Sıra No": 42,
+   "İl": "İSTANBUL",
+   "Kurum": "SBÜ Haydarpaşa Numune Eğitim ve Araştırma Hastanesi",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 10,
+   "Başvurabilenler":  ["İSTANBUL"]
+  },
+  {
+   "Sıra No": 43,
+   "İl": "İSTANBUL",
+   "Kurum": "İstanbul Medeniyet Üniversitesi Göztepe Prof. Dr. Süleyman Yalçın Şehir Hastanesi",
+   "Tür": "AFİlİYE",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 8,
+   "Başvurabilenler":  ["İSTANBUL"]
+  },
+  {
+   "Sıra No": 44,
+   "İl": "İSTANBUL",
+   "Kurum": "SBÜ Prof. Dr. Cemil Taşçıoğlu Şehir Hastanesi",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 9,
+   "Başvurabilenler":  ["İSTANBUL"]
+  },
+  {
+   "Sıra No": 45,
+   "İl": "İSTANBUL",
+   "Kurum": "SBÜ Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 7,
+   "Başvurabilenler":  ["İSTANBUL"]
+  },
+  {
+   "Sıra No": 46,
+   "İl": "İSTANBUL",
+   "Kurum": "SBÜ Ümraniye Eğitim ve Araştırma Hastanesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 8,
+   "Başvurabilenler":  ["İSTANBUL"]
+  },
+  {
+   "Sıra No": 47,
+   "İl": "İSTANBUL",
+   "Kurum": "Acıbadem Mehmet Ali Aydınlar Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 4,
+   "Başvurabilenler":  ["İSTANBUL"]
+  },
+  {
+   "Sıra No": 48,
+   "İl": "İSTANBUL",
+   "Kurum": "İstanbul Okan Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 5,
+   "Başvurabilenler":  ["İSTANBUL"]
+  },
+  {
+   "Sıra No": 49,
+   "İl": "İSTANBUL",
+   "Kurum": "Maltepe Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 3,
+   "Başvurabilenler":  ["İSTANBUL"]
+  },
+  {
+   "Sıra No": 50,
+   "İl": "İSTANBUL",
+   "Kurum": "SBÜ Başakşehir Çam ve Sakura Şehir Hastanesi",
+   "Tür": "ŞH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 8,
+   "Başvurabilenler":  ["İSTANBUL"]
+  },
+  {
+   "Sıra No": 51,
+   "İl": "İSTANBUL",
+   "Kurum": "SBÜ İstanbul Eğitim ve Araştırma Hastanesi",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 4,
+   "Başvurabilenler":  ["İSTANBUL"]
+  },
+  {
+   "Sıra No": 52,
+   "İl": "İZMİR",
+   "Kurum": "Dokuz Eylül Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 8,
+   "Başvurabilenler":  ["İZMİR"]
+  },
+  {
+   "Sıra No": 53,
+   "İl": "İZMİR",
+   "Kurum": "SBÜ Bozyaka Eğitim ve Araştırma Hastanesi",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 10,
+   "Başvurabilenler":  ["İZMİR"]
+  },
+  {
+   "Sıra No": 54,
+   "İl": "İZMİR",
+   "Kurum": "İzmir Kâtip Çelebi Üniversitesi Atatürk Eğitim ve Araştırma Hastanesi",
+   "Tür": "AFİlİYE",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 10,
+   "Başvurabilenler":  ["İZMİR"]
+  },
+  {
+   "Sıra No": 55,
+   "İl": "İZMİR",
+   "Kurum": "SBÜ Tepecik Eğitim ve Araştırma Hastanesi",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 10,
+   "Başvurabilenler":  ["İZMİR"]
+  },
+  {
+   "Sıra No": 56,
+   "İl": "İZMİR",
+   "Kurum": "İzmir Demokrasi Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 4,
+   "Başvurabilenler":  ["İZMİR"]
+  },
+  {
+   "Sıra No": 57,
+   "İl": "KAHRAMANMARAŞ",
+   "Kurum": "Kahramanmaraş Sütçü İmam Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 7,
+   "Başvurabilenler":  ["KAHRAMANMARAŞ"]
+  },
+  {
+   "Sıra No": 58,
+   "İl": "KARABÜK",
+   "Kurum": "Karabük Üniversitesi Eğitim ve Araştırma Hastanesi",
+   "Tür": "AFİlİYE",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 8,
+   "Başvurabilenler":  ["KARABÜK", " KASTAMONU"]
+  },
+  {
+   "Sıra No": 59,
+   "İl": "KARS",
+   "Kurum": "Kafkas Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 10,
+   "Başvurabilenler":  ["KARS", " ARDAHAN", " IĞDIR"]
+  },
+  {
+   "Sıra No": 60,
+   "İl": "KAYSERİ",
+   "Kurum": "Erciyes Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 10,
+   "Başvurabilenler":  ["KAYSERİ", " NEVŞEHİR", " NİĞDE"]
+  },
+  {
+   "Sıra No": 61,
+   "İl": "KAYSERİ",
+   "Kurum": "Kayseri Şehir Hastanesi",
+   "Tür": "ŞH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 5,
+   "Başvurabilenler":  ["KAYSERİ", " NEVŞEHİR", " NİĞDE"]
+  },
+  {
+   "Sıra No": 62,
+   "İl": "KOCAELİ",
+   "Kurum": "Kocaeli Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 10,
+   "Başvurabilenler":  ["KOCAELİ", " YALOVA"]
+  },
+  {
+   "Sıra No": 63,
+   "İl": "KONYA",
+   "Kurum": "Necmettin Erbakan Üniversitesi Meram Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 6,
+   "Başvurabilenler":  ["KONYA", " AKSARAY", " KARAMAN"]
+  },
+  {
+   "Sıra No": 64,
+   "İl": "KONYA",
+   "Kurum": "Selçuk Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 5,
+   "Başvurabilenler":  ["KONYA", " AKSARAY", " KARAMAN"]
+  },
+  {
+   "Sıra No": 65,
+   "İl": "KONYA",
+   "Kurum": "SBÜ Konya Şehir Hastanesi",
+   "Tür": "ŞH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 10,
+   "Başvurabilenler":  ["KONYA", " AKSARAY", " KARAMAN"]
+  },
+  {
+   "Sıra No": 66,
+   "İl": "KONYA",
+   "Kurum": "SBÜ Konya Beyhekim EAH",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 6,
+   "Başvurabilenler":  ["KONYA", " AKSARAY", " KARAMAN"]
+  },
+  {
+   "Sıra No": 67,
+   "İl": "KÜTAHYA",
+   "Kurum": "Kütahya Sağlık Bilimleri Üniversitesi Evliya Çelebi Eğitim ve Araştırma Hastanesi",
+   "Tür": "AFİlİYE",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 7,
+   "Başvurabilenler":  ["KÜTAHYA"]
+  },
+  {
+   "Sıra No": 68,
+   "İl": "MALATYA",
+   "Kurum": "İnönü Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 10,
+   "Başvurabilenler":  ["MALATYA"]
+  },
+  {
+   "Sıra No": 69,
+   "İl": "MANİSA",
+   "Kurum": "Celal Bayar Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 10,
+   "Başvurabilenler":  ["MANİSA"]
+  },
+  {
+   "Sıra No": 70,
+   "İl": "MERSİN",
+   "Kurum": "Mersin Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 10,
+   "Başvurabilenler":  ["MERSİN"]
+  },
+  {
+   "Sıra No": 71,
+   "İl": "MUĞLA",
+   "Kurum": "Muğla Sıtkı Koçman Üniversitesi Eğitim ve Araştırma Hastanesi",
+   "Tür": "AFİlİYE",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 8,
+   "Başvurabilenler":  ["MUĞLA"]
+  },
+  {
+   "Sıra No": 72,
+   "İl": "ORDU",
+   "Kurum": "Ordu Üniversitesi Eğitim ve Araştırma Hastanesi",
+   "Tür": "AFİlİYE",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 7,
+   "Başvurabilenler":  ["ORDU"]
+  },
+  {
+   "Sıra No": 73,
+   "İl": "RİZE",
+   "Kurum": "Recep Tayyip Erdoğan Üniversitesi Eğitim ve Araştırma Hastanesi",
+   "Tür": "AFİlİYE",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 8,
+   "Başvurabilenler":  ["RİZE", " ARTVİN"]
+  },
+  {
+   "Sıra No": 74,
+   "İl": "SAKARYA",
+   "Kurum": "Sakarya Üniversitesi Eğitim ve Araştırma Hastanesi",
+   "Tür": "AFİlİYE",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 10,
+   "Başvurabilenler":  ["SAKARYA"]
+  },
+  {
+   "Sıra No": 75,
+   "İl": "SAMSUN",
+   "Kurum": "Ondokuz Mayıs Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 8,
+   "Başvurabilenler":  ["SAMSUN", " AMASYA", " SİNOP"]
+  },
+  {
+   "Sıra No": 76,
+   "İl": "SAMSUN",
+   "Kurum": "SBÜ Samsun Eğitim ve Araştırma Hastanesi",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 12,
+   "Başvurabilenler":  ["SAMSUN", " AMASYA", " SİNOP"]
+  },
+  {
+   "Sıra No": 77,
+   "İl": "SİVAS",
+   "Kurum": "Cumhuriyet Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 10,
+   "Başvurabilenler":  ["SİVAS"]
+  },
+  {
+   "Sıra No": 78,
+   "İl": "ŞANLIURFA",
+   "Kurum": "Harran Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 15,
+   "Başvurabilenler":  ["ŞANLIURFA", " ADIYAMAN"]
+  },
+  {
+   "Sıra No": 79,
+   "İl": "TEKİRDAĞ",
+   "Kurum": "Namık Kemal Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 7,
+   "Başvurabilenler":  ["TEKİRDAĞ"]
+  },
+  {
+   "Sıra No": 80,
+   "İl": "TOKAT",
+   "Kurum": "Gaziosmanpaşa Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 7,
+   "Başvurabilenler":  ["TOKAT"]
+  },
+  {
+   "Sıra No": 81,
+   "İl": "TRABZON",
+   "Kurum": "Karadeniz Teknik Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 10,
+   "Başvurabilenler":  ["TRABZON", " GÜMÜŞHANE"]
+  },
+  {
+   "Sıra No": 82,
+   "İl": "TRABZON",
+   "Kurum": "SBÜ Trabzon Kanuni Eğitim ve Araştırma Hastanesi",
+   "Tür": "EAH.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 4,
+   "Başvurabilenler":  ["TRABZON", " GÜMÜŞHANE"]
+  },
+  {
+   "Sıra No": 83,
+   "İl": "UŞAK",
+   "Kurum": "Uşak Üniversitesi Uşak EAH",
+   "Tür": "AFİlİYE",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 7,
+   "Başvurabilenler":  ["UŞAK"]
+  },
+  {
+   "Sıra No": 84,
+   "İl": "VAN",
+   "Kurum": "Yüzüncü Yıl Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 15,
+   "Başvurabilenler":  ["VAN", " BİTLİS", " HAKKARİ"]
+  },
+  {
+   "Sıra No": 85,
+   "İl": "ZONGULDAK",
+   "Kurum": "Bülent Ecevit Üniversitesi Tıp Fakültesi",
+   "Tür": "ÜNV.",
+   "Dal": "Aile Hekimliği",
+   "Süre": "6 Yıl",
+   "Kontenjan": 12,
+   "Başvurabilenler":  ["ZONGULDAK", " BARTIN"]
   }
-]
+ ]
