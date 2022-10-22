@@ -3,8 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  ".vscode/settings.json": "19751b2a32e46d1ba1477f357123a898",
-"assets/AssetManifest.json": "7d3e474d163a89dd2ceaf7bb70c01b43",
+  "assets/AssetManifest.json": "7d3e474d163a89dd2ceaf7bb70c01b43",
 "assets/assets/fonts/baloo2/BalooBhai2-VariableFont_wght.ttf": "9cfeafec013bd6afd8d7cabf951b4699",
 "assets/assets/fonts/baloo2/OFL.txt": "760e0a74922f96a73e670cd45e4b0fd2",
 "assets/assets/fonts/baloo2/README.txt": "b014756737d857cc33d7e76ff5be5d72",
@@ -15,21 +14,21 @@ const RESOURCES = {
 "assets/assets/fonts/baloo2/static/BalooBhai2-SemiBold.ttf": "1392e17ecd56920955a175c857acdf9f",
 "assets/FontManifest.json": "34671a0351a2576cdfdc3e7b48c0c77e",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "e50dc8a84cbdcacde637635a5af8e616",
+"assets/NOTICES": "48aec7cf2c6cad9fe248ca255a0dd4d0",
 "assets/shaders/ink_sparkle.frag": "a04e492a05f9fd1a8cc6f12163b184dd",
 "canvaskit/canvaskit.js": "687636ce014616f8b829c44074231939",
 "canvaskit/canvaskit.wasm": "d4972dbefe733345d4eabb87d17fcb5f",
 "canvaskit/profiling/canvaskit.js": "ba8aac0ba37d0bfa3c9a5f77c761b88b",
 "canvaskit/profiling/canvaskit.wasm": "05ad694fda6cfca3f9bbac4b18358f93",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"flutter.js": "195f32f4217e034162a6697208586f44",
+"flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b41d48ffd265c9695e89c2ab3a7601a8",
-"/": "b41d48ffd265c9695e89c2ab3a7601a8",
-"main.dart.js": "ca18df9cd13bce23298a7d8cb97d3765",
+"index.html": "9514f7e588e22ec21761648057fe2fea",
+"/": "9514f7e588e22ec21761648057fe2fea",
+"main.dart.js": "3a21e83b52ee33897df145e30427aedd",
 "manifest.json": "b04a7c1518968b5c109da855ce33243c",
 "version.json": "3132b09e0322072950ccda74f25b951e"
 };
